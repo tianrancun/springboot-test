@@ -9,13 +9,7 @@ import org.springframework.context.annotation.PropertySource;
 import java.net.InetAddress;
 
 */
-/**
- * @author vn0ow6b
- * @Title: ElasticSearchConfig
- * @Description: TODO
- * @date 2018/12/28 16:33
- *//*
-
+/*
 @Configuration
 @PropertySource(value={"classpath:elasticsearch.properties"}) // 加载 指定的配置，只支持properti
 public class ElasticSearchConfig {
